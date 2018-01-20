@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "432952715491",
+    "firebase_url": "https://mylogin-265e9.firebaseio.com",
+    "project_id": "mylogin-265e9",
+    "storage_bucket": "mylogin-265e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432952715491:android:67550afc4ee8361d",
+        "android_client_info": {
+          "package_name": "com.example.krishanasony.mylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432952715491-trkuihg9sesuo7h6q5fnbliaoif0lvlu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krishanasony.mylogin",
+            "certificate_hash": "7080197886597eb5796e522a5a4d8ecb5b12180c"
+          }
+        },
+        {
+          "client_id": "432952715491-uru9tdflv07lg24tok25urjhec1ernig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUw8ZNIwOdhv_k23POX1HRmz0NDWFt8cU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432952715491-uru9tdflv07lg24tok25urjhec1ernig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
